@@ -1,17 +1,23 @@
-# Feedforward NeuralNetworrks
+# Gradient Descent Implementation
+This repository contains the code to implement gradient descent in python using Numpy
 
-This repository contains the code to create deep neural network and analyze the back propagation in neural networks.
+
 
 ### Repository Structure
-- FeedForwardNetworks: Contains code to create deep neural network with out any framework.
-- ScalerBackpropagation: Contains code to execute and visualize the back propagation in scalar form.
-- VectorBackpropagation: Contains code to execute and visualize the back propagation in vector form.
+- GDAlgorithms: Contains code to implementing various gradient descent algorithum in sigmoid neuron.
+- VectorisedGDAlgorithms: Contains code to implementing different gradient descent algorithums in feed forward neural network
 
-### Jump into code
+## Jump into code
 
-- FeedForward Networks     
-[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/Feedforward_NeuralNetworrks/blob/master/FeedForwardNetworks/FeedForwardNeuralNetwork.ipynb)
- - Scalar Backpropagation    
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/Feedforward_NeuralNetworrks/blob/master/ScalerBackPropagation/ScalarBackPropagation.ipynb)
- - Vector Backpropagation   
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/Feedforward_NeuralNetworrks/blob/master/VectorBackPropagation/VectorizedFeedForwardNetworks.ipynb)
+- Different Types of Gradient Descent Optimizers in Sigmoid Neuron 
+[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/GradientDescent_Implementation/blob/master/GDAlgorithms.ipynb)
+
+- Different Types of Gradient Descent Optimizers in Feedforward Neural network  
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/GradientDescent_Implementation/blob/master/VectorisedGDAlgorithms.ipynb)
+
+## Visualization
+- Visualizing the Gradient Descent learning algorithum
+![Gradient Plots](https://github.com/Niranjankumar-c/GradientDescent_Implementation/blob/master/assets/temp.jpg)
+
+- Animation of Gradient Descent
+![Gradient Plots](https://github.com/Niranjankumar-c/GradientDescent_Implementation/blob/master/assets/temp.gif)
